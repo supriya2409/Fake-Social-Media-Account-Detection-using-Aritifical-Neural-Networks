@@ -1,0 +1,2 @@
+# Fake-Social-Media-Account-Detection-using-Aritifical-Neural-Networks
+Developed an Artificial Neural Network (ANN) model to classify fake and genuine social media accounts. The project includes data preprocessing, feature engineering, model development using TensorFlow/Keras, hyperparameter optimization, and performance evaluation using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix.
